@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6363da86.css",
+    "main.css": "/static/css/main.fcab97fd.css",
     "main.js": "/static/js/main.ae977757.js",
     "static/media/Karen_Truzyan.pdf": "/static/media/Karen_Truzyan.78d78d0b8d9ab874ab09.pdf",
     "static/media/3.png": "/static/media/3.1b6a31dbad2ac1e421e3.png",
@@ -20,11 +20,11 @@
     "static/media/project-6.jpg": "/static/media/project-6.01f0759726cac8cc1044.jpg",
     "static/media/project-7.jpg": "/static/media/project-7.b8d596a0d448e5f93965.jpg",
     "index.html": "/index.html",
-    "main.6363da86.css.map": "/static/css/main.6363da86.css.map",
+    "main.fcab97fd.css.map": "/static/css/main.fcab97fd.css.map",
     "main.ae977757.js.map": "/static/js/main.ae977757.js.map"
   },
   "entrypoints": [
-    "static/css/main.6363da86.css",
+    "static/css/main.fcab97fd.css",
     "static/js/main.ae977757.js"
   ]
 }
