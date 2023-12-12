@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6363da86.css",
+    "main.js": "/static/js/main.ae977757.js",
+    "static/media/Karen_Truzyan.pdf": "/static/media/Karen_Truzyan.78d78d0b8d9ab874ab09.pdf",
+    "static/media/3.png": "/static/media/3.1b6a31dbad2ac1e421e3.png",
+    "static/media/blog-post-3.jpg": "/static/media/blog-post-3.488d227fe9943b9143b6.jpg",
+    "static/media/blog-post-4.jpg": "/static/media/blog-post-4.6f176edf6e379a098b2e.jpg",
+    "static/media/blog-post-2.jpg": "/static/media/blog-post-2.97fb142aeb107743528b.jpg",
+    "static/media/blog-post-1.jpg": "/static/media/blog-post-1.0cf3eb3701bc5d51c927.jpg",
+    "static/media/blog-post-6.jpg": "/static/media/blog-post-6.e4697599d3eb5f8201f5.jpg",
+    "static/media/project-2.jpg": "/static/media/project-2.f736b26dfb8817b45e06.jpg",
+    "static/media/blog-post-5.jpg": "/static/media/blog-post-5.c5a278a8cb0bea2452aa.jpg",
+    "static/media/project-3.jpg": "/static/media/project-3.4ce675d378c7d3e4442b.jpg",
+    "static/media/project-5.jpg": "/static/media/project-5.ee1831980f7a8b659005.jpg",
+    "static/media/project-4.jpg": "/static/media/project-4.451345577b80b349d772.jpg",
+    "static/media/project-9.jpg": "/static/media/project-9.991ceccfc81cc3e3cbaf.jpg",
+    "static/media/project-8.jpg": "/static/media/project-8.059c6a6913d271d37978.jpg",
+    "static/media/project-1.jpg": "/static/media/project-1.2b9a271c0179c7869b1c.jpg",
+    "static/media/project-6.jpg": "/static/media/project-6.01f0759726cac8cc1044.jpg",
+    "static/media/project-7.jpg": "/static/media/project-7.b8d596a0d448e5f93965.jpg",
+    "index.html": "/index.html",
+    "main.6363da86.css.map": "/static/css/main.6363da86.css.map",
+    "main.ae977757.js.map": "/static/js/main.ae977757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6363da86.css",
+    "static/js/main.ae977757.js"
+  ]
+}
